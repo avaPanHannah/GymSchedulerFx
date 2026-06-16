@@ -9,6 +9,9 @@
 畫面上主要分為「左側（操作分頁區）」與「右側（教練資訊區）」。
 右側：教練資訊區
 - 教練列表：點擊任何一位教練的名字，下方就會立刻顯示該教練的「大頭照」、「專長職稱」以及「有空時段」。
+- <img width="309" height="412" alt="image" src="https://github.com/user-attachments/assets/bde1ec03-c2b0-4f6b-a961-40476e7e086e" />
+<img width="281" height="413" alt="image" src="https://github.com/user-attachments/assets/c15de249-dc8b-4cb6-b0e1-b88da9ef5462" />
+
    
 - 綠色的格子代表「有空」，紅色的格子代表「沒空」。
 - 排班前請先看這裡，確保該教練在您想排的時段是可以上班的！
@@ -22,33 +25,27 @@
    - 【清空】：如果覺得排得太亂想重來，按下「清空」就可以全部重新排。
    - 【送出存檔】：當這週的班表都排滿意了，請按下紫色的「 送出本週班表」。這會把班表結算並永久存檔！
  
-
-
-
-
+<img width="865" height="220" alt="image" src="https://github.com/user-attachments/assets/fcb35c1b-32af-48db-803d-fbeb18d240c5" />
 
 2.週班表
    - 這個分頁提供一個「一目了然」的綜合大表格。
    - 以「星期一到星期日」為欄位，讓您一眼看出每天的早班、晚班分別是由哪位教練負責(也可以是多位教練)。
+   - <img width="865" height="166" alt="image" src="https://github.com/user-attachments/assets/0e1b8885-c1bb-41ca-840b-abf491fc7034" />
+
  
 3.時數統計
    - 系統會自動幫您計算每位教練這週「已經排了幾天」、「已經工作了幾小時」。
    - 如果教練工時已經達到法規上限（一週 5 天或 40 小時），系統會在狀態欄位提醒您這位教練已經「滿班」了。
  
-
-
-
-
-
-
-
-
+<img width="865" height="145" alt="image" src="https://github.com/user-attachments/assets/fe2550ac-1a8a-46c3-a1b4-f1d684e76586" />
 
 
 4. 歷史排班
    - 當您在第一個分頁按下「送出本週班表」後，資料就會被寫入純文字檔。
    - 點進這個分頁，系統會自動幫您讀取並開啟過去「所有的」排班歷史紀錄。
    - 按下右上角重新讀取，可以更新到最新上傳的排班資料。
+   - <img width="865" height="507" alt="image" src="https://github.com/user-attachments/assets/e8520f86-4828-470b-83c6-d4223362cee6" />
+
  
 【自動暫存功能 (貼心設計)】
 - 不用擔心排班排到一半不小心關掉程式或當機！
